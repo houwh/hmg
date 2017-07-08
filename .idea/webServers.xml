@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6e3cb576-a00c-4ffa-9415-dfc6b49c2e5e" name="cjw" url="http://localhost/lepayer/pcWebApp">
+        <fileTransfer host="localhost/lepayer/pcWebApp" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
